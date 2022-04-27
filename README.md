@@ -2,4 +2,4 @@
 
 Ini adalah repo pertama saya.
 
-Develop by : nama anda
+Develop by : Maman Abadi
